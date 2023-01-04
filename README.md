@@ -19,4 +19,4 @@ Sorting algorithm visualizer
 
 ## Contibutions
 
-Always welcome to contributors who wants to add new algoritm, fix possible bug, add support for mobile, ect., ect.
+Always welcome to contributors who wants to add new algoritm, fix possible bug, add support for mobile, ect.
