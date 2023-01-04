@@ -4,9 +4,10 @@ Sorting algorithm visualizer
 
 [Live Demo](https://pheianox-sortviz.netlify.app/)
 
-## Functionality
 
-* Selecting algoritm
+## Functionality 
+
+* Select algoritm
 * Start/Skip sorting
 * Change sorting speed
 * Swtich dark/ligh mode
