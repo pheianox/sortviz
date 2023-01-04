@@ -6,4 +6,4 @@ Explore sorting algoritms
 
 ## Contibutions
 
-Always welcome to contributors who wants to add new algoritms or fix bugs
+Always welcome to contributors who wants to add new algoritms or fix possible bugs
