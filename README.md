@@ -12,7 +12,7 @@ Sorting algorithm visualizer
 * Change sorting speed
 * Swtich dark/ligh mode
 * Disable/enable animations
-* Regenerate new random array
+* Regenerate new data set
 * Restore already sorted arrray back to its unsorted version
 * Analyse how many swaps and comparisons
 * Learn about algoritm by clicking on its name
