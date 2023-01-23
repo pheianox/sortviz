@@ -4,6 +4,7 @@ Sorting algorithm visualizer
 
 [Live Demo](https://pheianox-sortviz.netlify.app/)
 
+![x](https://user-images.githubusercontent.com/77569421/214054349-4677e1fb-c2e3-4852-901e-201babe587c8.png)
 
 ## Functionality 
 
